@@ -1,0 +1,7 @@
+este mensaje es con fines academicos 
+
+
+para aprender git
+
+
+aprederemos lineas de comandos
