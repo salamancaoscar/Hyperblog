@@ -9,3 +9,11 @@ aprederemos lineas de comandos
 
 
 aprenderemos mas de git
+
+
+
+git se nota complicado, pero no lo es 
+
+
+
+veremos mas lineas por ahora
